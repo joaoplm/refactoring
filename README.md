@@ -8,7 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To run the model you will need the following requirements:
+1) RapidMiner 5.3 or higher
+2) ckjm 1.9
+3) The XML file with the RapidMiner model process 
+4) The train and test datasets csv files
+
 
 ```
 Give examples
