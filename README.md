@@ -9,10 +9,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 To run the model you will need the following requirements:
-1) RapidMiner 5.3 or higher
-2) ckjm 1.9
-3) The XML file with the RapidMiner model process 
-4) The train and test datasets csv files
+1) RapidMiner 5.3 or higher avaliable in:  https://rapidminer.software.informer.com/download/
+2) CKJM extended 1.9 or hiigher avaliable in: http://gromit.iiar.pwr.wroc.pl/p_inf/ckjm/down.html
+3) Java 8 or higher avaliable in: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+4) The XML file with the RapidMiner model process 
+5) The train dataset csv file
+6) The outpupt of CKJM of your Java program
 
 
 ```
